@@ -5,3 +5,13 @@ Abstract：Mole City is a completely decentralized multi-chain protocol establis
 
 Download: [Mole City Whitepaper](https://github.com/mole-city/molecity_whitepaper/raw/main/MoleCityWhitepaper.pdf)
 
+## Mole City Official Channels
+
+> Website : [https://mole.city/](https://mole.city/)  
+> 
+> Twitter: [https://twitter.com/MoleCityMC](https://twitter.com/MoleCityMC)
+> 
+> Telegram Group: [https://t.me/molecity_mc](https://t.me/molecity_mc)
+> 
+> Discord : [https://discord.gg/8DE6DYVAsE](https://discord.gg/8DE6DYVAsE)
+>
